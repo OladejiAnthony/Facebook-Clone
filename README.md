@@ -1,9 +1,9 @@
 
 # Facebook-Clone
 <h1>This is a Facebook App Clone with React Js and Context Api
-Hosting URL: https://facebook-clone-87046.web.app</h1>
+Hosting URL: https://facebook-clone-87046.firebaseapp.com</h1>
  02da7304f60c163d3652a288329b92e0b57d14e7
-<h1><a href="https://facebook-clone-87046.web.app">Click to View</a></h1>
+<h1><a href="https://facebook-clone-87046.firebaseapp.com">Click to View</a></h1>
 
 HEAD
 # Getting Started with Create React App
